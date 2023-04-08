@@ -8,6 +8,7 @@
 
 # 目录
 
+* [前端技术双周刊 2023-04-08：Chrome 支持 CSS 嵌套语法](https://github.com/olivewind/weekly/issues/7)
 * [前端技术双周刊 2023-03-25：加速 JavaScript 生态系统 ](https://github.com/olivewind/weekly/issues/6)
 * [前端技术双周刊 2023-03-11：Signals 之争](https://github.com/olivewind/weekly/issues/5)
 * [前端技术双周刊 2022-12-18：State of CSS 2022 调查报告发布](https://github.com/olivewind/weekly/issues/4)
