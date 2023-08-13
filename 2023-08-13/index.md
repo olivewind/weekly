@@ -143,13 +143,13 @@ nivo 是一个基于 d3 和 React 库构建的数据可视化组件库，其主�
 4. 支持服务端渲染
 5. 支持 HTML、SVG、Canvas 多种模式图表
 
-!()[nivo.png]
+![](nivo.png)
 
 ### [perspective](https://github.com/finos/perspective)（6.6k star）
 
 Perspective 是一个交互式分析和数据可视化组件，特别适合大型数据集。
 
-!()[perspective.gif]
+![](perspective.gif)
 
 
 
@@ -157,18 +157,18 @@ Perspective 是一个交互式分析和数据可视化组件，特别适合大�
 
 一个专为 AI LLM 应用构建的 Tailwind 组件集合，拥有超过 60 个响应式且支持暗黑模式的组件。
 
-!()[langui.png]
+![](langui.png)
 
 ### [react-image-gallery](https://github.com/xiaolin/react-image-gallery)（3.5k star）
 
 一个支持缩略图的 React 轮播图片库组件。
-!()[react-image.png]
+![](react-image.png)
 
 
 ### [ora](https://github.com/sindresorhus/ora)（8.6k star）
 
 一个优雅的 Node.JS 命令行 Loading 库，在实现 CLI 时很有用。
-!()[ora.png]
+![](ora.png)
 
 ### [tsup](https://github.com/egoist/tsup)（6.3k star）
 
@@ -234,15 +234,15 @@ app.use(speedLimiter);
 ### [因为 React 你忘记了的事情（英文）](https://joshcollinsworth.com/blog/antiquated-react)
 
 React 是新的 IBM：你应该学习它，你应该了解它的缺点，你可能仍然应该在正确的环境中部署它。 你永远不会因为选择它而被解雇，但它会很昂贵、臃肿、难以正确实施，而且每一步的实施都会毫无乐趣。从现在开始，你应该去探索过去这段时间你所错过的可能性，包括 Svelte、Astro、Qwik，Web Component...
-!()[react.png]
+![](react.png)
 
 
 ### [理解 React Server Component（英文）](https://vercel.com/blog/understanding-react-server-components)
 
 了解 React Server Comonent 的基础知识，以更好地理解为什么（以及何时）采用它，本文由 Vercel 团队编写，值得一读。
-!()[rsc1.png]
+![](rsc1.png)
 
-!()[rsc2.png]
+![](rsc2.png)
 
 
 ### [加速 V8 堆快照（英文）](https://v8.dev/blog/speeding-up-v8-heap-snapshots)
@@ -264,7 +264,7 @@ const SignInPage = () => (
 export default SignInPage;
 ```
 
-!()[clerk.png]
+![](clerk.png)
 
 
 ### [Resend](https://resend.com/)
@@ -291,11 +291,11 @@ export async function sendEmail() {
 };
 ```
 
-!()[resend.png]
+![](resend.png)
 
 值得一提的是，其追踪邮件打开事件的方式是在每封邮件中插入 1x1 像素透明 GIF 图像，打开邮件时图片触发下载，此过程被标记为一次 email open 事件。
 ### [npmgraph](https://npmgraph.js.org/)
 
 一个用于可视化显示 npm 包依赖图谱的工具。
 
-!()[npmgraph.png]
+![](npmgraph.png)
